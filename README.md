@@ -2,6 +2,19 @@
 
 This repository contains files and scripts for a machine learning project that detects age, emotion, and facial recognition. The repository includes pre-trained models and Python scripts for training new models. Below is an overview of each file and step-by-step instructions on using the scripts.
 
+## Requirements
+
+### **Programming Language and Version**
+- **Python 3.8+**  
+  Ensure Python 3.8 or newer is installed to support the libraries and frameworks used in this project.
+- **IDE**
+  Some files are written as Jupyter Notebook (.ipynb) and Python files (.py)
+  It is advised to have an IDE (VS Code or Anaconda Navigator) tohandle both file type python execution. 
+
+### **Libraries**
+The following Python libraries are required for this project:
+- **TensorFlow, Keras, OpenCV, Pandas, NumPy, Scikit-learn, OS, face_recognition**
+
 ## Datasets Used
 
 1. **https://www.kaggle.com/datasets/msambare/fer2013**
@@ -90,3 +103,5 @@ To train a new model for age detection:
 2. Replace the dataset path with your training dataset for age detection.
 3. Train the CNN model by executing the cells.
 4. After training, the updated model will be saved as `age_detected_model.keras`.
+
+
