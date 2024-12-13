@@ -5,11 +5,8 @@ This repository contains files and scripts for a machine learning project that d
 ## Requirements
 
 ### **Programming Language and Version**
-- **Python 3.8+**  
-  Ensure Python 3.8 or newer is installed to support the libraries and frameworks used in this project.
-- **IDE**
-  Some files are written as Jupyter Notebook (.ipynb) and Python files (.py)
-  It is advised to have an IDE (VS Code or Anaconda Navigator) tohandle both file type python execution. 
+- **Python 3.8+** Ensure Python 3.8 or newer is installed to support the libraries and frameworks used in this project.
+- **IDE** Some files are written as Jupyter Notebook (.ipynb) and Python files (.py). It is advised to have an IDE (VS Code or Anaconda Navigator) to handle both file type python execution. 
 
 ### **Libraries**
 The following Python libraries are required for this project:
